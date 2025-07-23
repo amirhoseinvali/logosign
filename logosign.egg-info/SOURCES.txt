@@ -1,0 +1,8 @@
+setup.py
+logosign/__init__.py
+logosign/apps.py
+logosign.egg-info/PKG-INFO
+logosign.egg-info/SOURCES.txt
+logosign.egg-info/dependency_links.txt
+logosign.egg-info/requires.txt
+logosign.egg-info/top_level.txt

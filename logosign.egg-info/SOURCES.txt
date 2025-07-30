@@ -1,6 +1,11 @@
+MANIFEST.in
+README.md
 setup.py
 logosign/__init__.py
 logosign/apps.py
+logosign/ascii_logo_builder.py
+logosign/default.ascii
+logosign/writer.py
 logosign.egg-info/PKG-INFO
 logosign.egg-info/SOURCES.txt
 logosign.egg-info/dependency_links.txt
